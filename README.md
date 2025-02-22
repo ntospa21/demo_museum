@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # demo_museum
 # demo_museum
 # test-museum
+# test-museum
