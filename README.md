@@ -2,19 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Project Overview
 
-This project is a starting point for a Flutter application.
+**Demo Museum** is a mobile application dedicated to showcasing the rich history and variety of tomatoes. This app provides an interactive and engaging experience for users to explore different types of tomatoes, their origins, and their uses.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# demo_museum
-# demo_museum
-# test-museum
-# test-museum
+- **Interactive Carousel**: Browse through a collection of tomato images with detailed descriptions.
+- **Full-Screen Image Viewer**: View high-resolution images of tomatoes in full-screen mode.
+- **Smooth Animations**: Enjoy smooth transitions and animations throughout the app.
