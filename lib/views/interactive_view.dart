@@ -57,7 +57,7 @@ class AssetImageWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Image.asset(
       assetPath,
-      fit: BoxFit.cover,
+      fit: BoxFit.contain,
     );
   }
 }
